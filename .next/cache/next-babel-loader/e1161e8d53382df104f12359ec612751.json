@@ -1,0 +1,1 @@
+{"ast":null,"code":"export var DOMAIN = 'http://localhost:2000';","map":{"version":3,"sources":["D:\\abfront\\config\\index.js"],"names":["DOMAIN"],"mappings":"AAAA,OAAO,IAAMA,MAAM,GAAG,uBAAf","sourcesContent":["export const DOMAIN = 'http://localhost:2000'"]},"metadata":{},"sourceType":"module"}
